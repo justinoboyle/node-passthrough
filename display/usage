@@ -1,0 +1,6 @@
+
+USAGE: npt [mutex/--help/--version]
+
+--help  Prints this message
+--version   Prints node-passthrough version number
+
