@@ -1,6 +1,6 @@
 {
   "name": "node-passthrough",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manipulate stdout streams.",
   "main": "index.js",
   "scripts": {
